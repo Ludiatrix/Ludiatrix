@@ -28,6 +28,8 @@ I am also working on a puzzle game called WONTFIX, which is about being the QA T
 [Lonely Satanist](https://itch.io/queue/c/7799185/ssj-june-2026-luck-calculated-risk?game_id=4704281&password=) - A web-based dating sim game made with Unity Engine and C# for the 2026 PIGSQUAD "Calculated Risk" Game Jam.
 
 ## Near Completion
+[Name Change Simulator](https://elven-dynamics-llc.itch.io/name-change-simulator) - A web-based form filling system for name and gender change documents that vary by state.
+
 (Will be posted soon) Mass Explosion Simulation System (MESS) - Unity Package to create physics-based explosions and debris with a large number of GameObjects without sacrificing performance.
 
 ## Active Development
