@@ -9,7 +9,7 @@ I currently work on the Anarchy System, which serves as a protocol for seeding a
 I am also working on a puzzle game called WONTFIX, which is about being the QA Tester for a very buggy video game in the 2000's.
 
 ### Languages and Tools
-- C#, Rust, Typescript, SQL (MSSQL/MySQL)
+- C#, Rust, C/C++, Typescript, Python, Javascript, PHP, SQL (MSSQL & MySQL), 
 - Unity, Unreal, Godot, Bevy
 - Figma, Blender, GIMP, Inkscape
 
