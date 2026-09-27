@@ -13,8 +13,6 @@ I am also working on a puzzle game called WONTFIX, which is about being the QA T
 - Unity, Unreal, Godot, Bevy
 - Figma, Blender, GIMP, Inkscape
 
-My current tech stack is C#, Rust, TypeScript, Unity, Godot, and Bevy.
-
 ### Some Stuff About Me:
 - 🐶 I have a dog named Ludo
 - 🏍️ I love/hate fixing my motorcycle (2002 Suzuki SV650S)
