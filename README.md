@@ -2,7 +2,7 @@
 
 Howdy! The name's Riza, and I'm an XR Multiplayer Engineer out of Portland, OR.
 
-There is nothing I love more than building software which securely connects Players together without the need for a centralized system.
+I tend to build whatever comes to mind, but there is nothing I love more than building software which securely connects Players together without the need for a centralized system.
 
 I currently work on the Anarchy System, which serves as a protocol for seeding and sharing pieces of game content across a decentralized network as well as a system to support it.
 
