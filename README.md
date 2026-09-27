@@ -13,6 +13,8 @@ I am also working on a puzzle game called WONTFIX, which is about being the QA T
 - Unity, Unreal, Godot, Bevy
 - Figma, Blender, GIMP, Inkscape
 
+- **Notable Tools I Love and Use Often:** [godot-bevy](https://github.com/bytemeadow/godot-bevy), [UltimateXR](https://github.com/VRMADA/ultimatexr-unity)
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Ludiatrix&langs_count=6&hide_values=true&theme=panda)](https://github-stats-extended.vercel.app/api/top-langs?username=Ludiatrix&langs_count=6&hide_values=true&theme=panda)
 
 ### Some Stuff About Me:
