@@ -13,6 +13,8 @@ I am also working on a puzzle game called WONTFIX, which is about being the QA T
 - Unity, Unreal, Godot, Bevy
 - Figma, Blender, GIMP, Inkscape
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Ludiatrix&langs_count=6&hide_values=true&theme=panda)](https://github-stats-extended.vercel.app/api/top-langs?username=Ludiatrix&langs_count=6&hide_values=true&theme=panda)
+
 ### Some Stuff About Me:
 - 🐶 I have a dog named Ludo
 - 🏍️ I love/hate fixing my motorcycle (2002 Suzuki SV650S)
