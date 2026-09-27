@@ -35,7 +35,7 @@ I am also working on a puzzle game called WONTFIX, which is about being the QA T
 
 WONTFIX - Puzzle game that is currently in development. Code is currently private but can request images/video of gameplay.
 
-## Give Me Infinite Money and I Would Make This Faster
+## It'll Get Done Eventually...
 AnarchyNet - A secure distributed authority framework designed for real-time multiplayer games.
 
 Anarchy World Generation - Send and receive game assets on a decentralized node framework.
