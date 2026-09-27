@@ -25,8 +25,12 @@ My current tech stack is C#, Rust, TypeScript, Unity, Godot, and Bevy.
 ## Completed and Maintained
 [Anarchy Construct Framework](https://github.com/Ludiatrix/Anarchy-Construct-Framework) - Unity Package to streamline generating project structure made for large teams and automatically assign addressables.
 
+[Arena of Champions MMO](https://dragonaxegaming.itch.io/inventory-jam-rust-mmo) - A web-based MMO made with Rust, ECS Framework, and Bevy Game Engine for the 2026 PIGSQUAD "Inventory" Game Jam.
+
+[Lonely Satanist](https://itch.io/queue/c/7799185/ssj-june-2026-luck-calculated-risk?game_id=4704281&password=) - A web-based dating sim game made with Unity Engine and C# for the 2026 PIGSQUAD "Calculated Risk" Game Jam.
+
 ## Near Completion
-Mass Explosion Simulation System (MESS) - Unity Package to create physics-based explosions and debris with a large number of GameObjects without sacrificing performance.
+(Will be posted soon) Mass Explosion Simulation System (MESS) - Unity Package to create physics-based explosions and debris with a large number of GameObjects without sacrificing performance.
 
 ## Active Development
 [Tutorial on Bevy Scene Notation (BSN)](https://github.com/Ludiatrix/Bevy-Scene-Notation-Architecture-Example) - Bevy version 0.19 introduced BSN and there should be a tutorial that teaches some best practices.
