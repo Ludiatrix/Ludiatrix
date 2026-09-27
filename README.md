@@ -8,6 +8,11 @@ I currently work on the Anarchy System, which serves as a protocol for seeding a
 
 I am also working on a puzzle game called WONTFIX, which is about being the QA Tester for a very buggy video game in the 2000's.
 
+### Current Learnings
+- Diving heavily in Rust crate development to start contributing
+- Touching a lot more Haskell because due to being a functional programming language that is very light on verbosity
+- Learning how to start contributing to the [godot-bevy](https://github.com/bytemeadow/godot-bevy) project as I firmly believe in how cool it is.
+
 ### Languages and Tools
 - C#, Rust, C/C++, Typescript, Python, Javascript, PHP, SQL (MSSQL & MySQL), 
 - Unity, Unreal, Godot, Bevy
