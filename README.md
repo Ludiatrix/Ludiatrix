@@ -37,9 +37,9 @@ I am also working on a puzzle game called WONTFIX, which is about being the QA T
 [Lonely Satanist](https://github.com/Ludiatrix/LonelySatanistGame) - A web-based dating sim game made with Unity Engine and C# for the 2026 PIGSQUAD "Calculated Risk" Game Jam. [Play Game](https://itch.io/queue/c/7799185/ssj-june-2026-luck-calculated-risk?game_id=4704281&password=)
 
 ## Near Completion
-[Name Change Simulator](https://github.com/Ludiatrix/NameChangeSimulator) - A web-based form filling system for name and gender change documents that vary by state. [Play Game](https://elven-dynamics-llc.itch.io/name-change-simulator)
+[Name Change Simulator](https://github.com/Ludiatrix/NameChangeSimulator) - A web-based form filling system for name and gender change documents that vary by state. [Play Game](https://elven-dynamics-llc.itch.io/name-change-simulator
 
-(Will be posted soon) Mass Explosion Simulation System (MESS) - Unity Package to create physics-based explosions and debris with a large number of GameObjects without sacrificing performance.
+[Construct Workshop]() - A rust application built for Docker that uses a REST API to accept USD files called _constructs_ (a generalized asset blueprint for a game engine), assigns them a content address, stores them in a storage server, and then records it's data into a SQLite database. It can then be downloaded via REST API into a game engine such as Unity, Unreal Engine, or Godot at runtime and made into an engine-specific object.
 
 ## Active Development
 [Tutorial on Bevy Scene Notation (BSN)](https://github.com/Ludiatrix/Bevy-Scene-Notation-Architecture-Example) - Bevy version 0.19 introduced BSN and there should be a tutorial that teaches some best practices.
